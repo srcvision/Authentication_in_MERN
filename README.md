@@ -1,4 +1,3 @@
-# Authentication_in_MERN
 # Authentication in MERN
 
 ## 📌 Introduction
