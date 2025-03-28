@@ -85,4 +85,4 @@ This project is **MIT Licensed**.
 Contributions are welcome! Feel free to open an issue or a pull request.
 
 ## 📞 Contact
-For any queries, reach out at [your-email@example.com](mailto:your-email@example.com).
+For any queries, reach out at [srchaudhari0806@gmail.com](mailto:srchaudhari0806@gmail.com).
